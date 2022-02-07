@@ -1,3 +1,5 @@
+import "./styles.css"
+
 function App() {
 <div className="calculator-grid">
   <div className="output">
